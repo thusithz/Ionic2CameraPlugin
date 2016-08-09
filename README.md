@@ -8,7 +8,7 @@
 
 ## Add plugin 
 
-#### ionic plugin add cordova-plugin-camera
+#### $ ionic plugin add cordova-plugin-camera
  
  
-#### Then add platform and deploye the app 
+###### Then add platform and deploy the app 
